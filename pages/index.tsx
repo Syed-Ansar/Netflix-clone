@@ -34,7 +34,7 @@ const Home = ({
     }`} >
       <Head>
         <title>Netflix - Home</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/netflix.ico" />
       </Head>
       {/* Header */}
       <Header/>
